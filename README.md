@@ -1,5 +1,5 @@
-<h1 align="center"> Yo, I'm Jas💢</h1>
-<h3 align="center">Backend Developer | API Builder | Data & Systems Enthusiast | Code Alchemist ⚙️</h3>
+<h1 align="center">🥀Yo, I'm Jas</h1>
+<h3 align="center">Developer | API Builder | Data & Systems Enthusiast | Code Alchemist ⚙️</h3>
 
 ---
 
