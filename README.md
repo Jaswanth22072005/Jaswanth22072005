@@ -31,11 +31,8 @@
   <a href="https://www.linkedin.com/in/jaswanth22072005/" target="blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" width="40" />
   </a>
-  <a href="mailto:jaswanth22072005@gmail.com" target="blank">
+  <a href="mailto:jaswanth.t2207@gmail.com" target="blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="gmail" width="40" />
-  </a>
-  <a href="https://leetcode.com/Jaswanth22072005/" target="blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" alt="leetcode" width="40" />
   </a>
 </p>
 
@@ -46,11 +43,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Jaswanth22072005&show_icons=true&theme=radical" height="180em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jaswanth22072005&layout=compact&theme=radical" height="180em" />
 </p>
-
----
-
-### 🐍 Code Flow  
-![Snake animation](https://github.com/Jaswanth22072005/Jaswanth22072005/raw/output/snake.svg)
 
 ---
 
